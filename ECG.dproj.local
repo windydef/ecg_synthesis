@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/03 12.00.00.000.065,=C:\Users\Cok Yoga\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/18 22.00.00.000.212,=C:\Users\Cok Yoga\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/19 20.00.00.000.371,=C:\Users\Cok Yoga\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/19 21.00.00.000.160,C:\Users\Cok Yoga\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Cok Yoga\Desktop\Institut Teknologi Nopember\MATERI\SEMESTER V\Biomodeling\TUGAS\7.1 ECG Syntesis\ECGsyntesis.pas</Transaction>
+    <Transaction>2018/12/19 21.00.00.000.389,C:\Users\Cok Yoga\Desktop\Institut Teknologi Nopember\MATERI\SEMESTER V\Biomodeling\TUGAS\7.1 ECG Syntesis\Project1.dproj=C:\Users\Cok Yoga\Desktop\Institut Teknologi Nopember\MATERI\SEMESTER V\Biomodeling\TUGAS\7.1 ECG Syntesis\ECG.dproj</Transaction>
+    <Transaction>2018/12/19 21.00.00.000.160,C:\Users\Cok Yoga\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Cok Yoga\Desktop\Institut Teknologi Nopember\MATERI\SEMESTER V\Biomodeling\TUGAS\7.1 ECG Syntesis\ECGsyntesis.dfm</Transaction>
+    <Transaction>2018/12/19 21.00.00.000.454,C:\Users\Cok Yoga\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Cok Yoga\Desktop\Institut Teknologi Nopember\MATERI\SEMESTER V\Biomodeling\TUGAS\7.1 ECG Syntesis\Project1.dproj</Transaction>
+    <Transaction>2018/12/20 03.00.00.000.132,D:\ITS\SEM 5\BIOMODELLING\TUGAS 7 ECG SINTESIS FIX\ECGsyntesis.dfm=D:\ITS\SEM 5\BIOMODELLING\Referensi\7.1 ECG Syntesis 2\7.1 ECG Syntesis 2\ECGsyntesis.dfm</Transaction>
+    <Transaction>2018/12/20 03.00.00.000.788,D:\ITS\SEM 5\BIOMODELLING\TUGAS 7 ECG SINTESIS FIX\ECG.dproj=D:\ITS\SEM 5\BIOMODELLING\Referensi\7.1 ECG Syntesis 2\7.1 ECG Syntesis 2\ECG.dproj</Transaction>
+    <Transaction>2018/12/20 03.00.00.000.132,D:\ITS\SEM 5\BIOMODELLING\TUGAS 7 ECG SINTESIS FIX\ECGsyntesis.pas=D:\ITS\SEM 5\BIOMODELLING\Referensi\7.1 ECG Syntesis 2\7.1 ECG Syntesis 2\ECGsyntesis.pas</Transaction>
+  </Transactions>
+</BorlandProject>
