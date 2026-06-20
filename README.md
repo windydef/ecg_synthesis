@@ -61,15 +61,6 @@ McSharry, P. E., Clifford, G. D., Tarassenko, L., & Smith, L. A. (2003). *A Dyna
 
 ---
 
-### Notes on the source document (not in the original)
-
-- **α is not a constant.** The report presents `ẋ = αx − ωy`, `ẏ = αy + ωx` as if α were a fixed scalar. In the McSharry model `α = 1 − √(x² + y²)` — the term that pulls the trajectory back onto the unit circle (the limit cycle). Treating α as constant would change the dynamics. [High confidence — verified against the cited paper.]
-- **Parameter labels swapped in the conclusion.** The conclusions state "Aᵢ = jarak (distance), Bᵢ = amplitudo." This is inconsistent with both the McSharry model and the report's own Table I: `aᵢ` is the Gaussian **amplitude/height** (the R-wave's aᵢ = 30 is the tallest, i.e. amplitude — not a distance), and `bᵢ` is the **width/duration**. The README uses the correct meaning above. [High confidence — from the paper and Table I.]
-- **"Q = −25% of R"** is stated as a clinical fact; it's better read as a modeling simplification. Likewise the mV figures for P/R/T are rough nominal values, not strict physiology.
-- **Sign/structure of the z-equation** is reproduced as printed; the leading minus and the `−(z − z₀)` baseline term match the paper's structure, but verify the exact sign convention against the source before coding, since the report's rendering of `Δθ` vs `(θ − θᵢ)` is terse.
-
----
-
 ## Author
 
 **Windy Deftia M**  
